@@ -1,2 +1,4 @@
-Task : 1. To create new repository using git commands
-	2. To add files to the existing repository and to push the changes to remote server. 	 
+Task : 1. To create account on GitHub
+	2. To install GIT in our local machine/server 
+	3. To create new repository using git commands
+	4. To add files to the existing repository and to push the changes to remote server. 	 
