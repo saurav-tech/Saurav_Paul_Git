@@ -1,0 +1,2 @@
+Task : 1. To create new repository using git commands
+	2. To add files to the existing repository and to push the changes to remote server. 	 
